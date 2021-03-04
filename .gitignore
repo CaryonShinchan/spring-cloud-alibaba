@@ -1,0 +1,6 @@
+# Project exclude paths
+/spring-cloud-alibaba-gateway/target/
+/spring-cloud-alibaba-nacos-consumer/target/
+/spring-cloud-alibaba-nacos-consumer-feign/target/
+/spring-cloud-alibaba-nacos-consumer-feign-sentinel/target/
+/spring-cloud-alibaba-nacos-provider/target/
