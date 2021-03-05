@@ -3,6 +3,9 @@ package com.shinchan.service.impl;
 import com.shinchan.service.FeignService;
 import org.springframework.stereotype.Component;
 
+/**
+ * @author Administrator
+ */
 @Component
 public class FallbackServiceImpl implements FeignService {
 
